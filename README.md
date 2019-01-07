@@ -9,4 +9,4 @@ First, install pipenv. Then:
 
 ```
 pipenv install
-pipenv run "python find_meteoprs.py"
+pipenv run "meteors/python find_meteoprs.py"
