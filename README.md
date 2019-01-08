@@ -5,7 +5,7 @@ A demo project
 
 This project requires Python 3 and the requests package
 
-First, install pipenv. Then:
+First, install pipenv. Then type:
 
 ```
 pipenv install
